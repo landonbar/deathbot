@@ -1,0 +1,23 @@
+{
+  "name": "deathbot",
+  "version": "1.0.0",
+  "description": "bot of death",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landonbar/deathbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landonbar/deathbot/issues"
+  },
+  "homepage": "https://github.com/landonbar/deathbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
